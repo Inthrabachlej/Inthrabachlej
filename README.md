@@ -1,37 +1,65 @@
 # Alex Bachlej
 
-AI-native systems engineer building multi-LLM orchestration, automation runtimes, and operator-first technical workflows.
+AI-native systems engineer focused on multi-LLM orchestration runtimes, controlled AI execution, and practical developer tooling.
 
----
+I build systems where AI does not just generate code blindly. The work is scoped, reviewed, tested, audited, and shipped through controlled execution loops.
 
-## What I build
+## Core narrative
 
-I build AI-native automation systems, orchestration runtimes, and technical workflows that turn manual or chaotic software work into repeatable execution pipelines.
+Most people argue whether AI is magic.
 
-**Current focus:**
-- multi-LLM orchestration
-- AI-assisted software execution
-- backend and infrastructure workflows
-- operator-first automation systems
+I built the button, wired the machine behind it, added logs, tests, audits, and release gates, then pressed it.
 
-The goal is simple: make AI-generated work controllable, reviewable, and production-oriented instead of leaving it as one-shot code generation.
+Everyone wants the magic button.  
+The leverage is building it.
 
----
+## Current focus
 
-## Stack
+- Multi-LLM orchestration runtimes
+- Supervised AI execution pipelines
+- Python CLI tools for AI/dev workflows
+- Prompt contracts, audit gates, and release discipline
+- FastAPI, Redis, Docker, automation infrastructure
 
-Python 3.12+ · FastAPI · Redis · PostgreSQL · Claude API · OpenAI API · Multi-agent orchestration · Linux · Docker · SSH-first ops
+## Public proof artifacts
 
----
+### RailTaskLite
 
-## Projects
+RailTaskLite is my controlled AI execution workflow: scoped batches, allowed files, audit gates, repair loops, tests, operator decisions, and release checks.
 
-- [archon3](https://github.com/alexbachlej/archon3) — Multi-agent orchestration prototype
-- [archon2](https://github.com/alexbachlej/archon2) — AI-assisted software generation
-- [blackbox-raven](https://github.com/alexbachlej/blackbox-raven) — Local AI terminal operator for Claude
-- [voice-to-text](https://github.com/alexbachlej/voice-to-text) — Offline voice transcription tools
-- [pixctl](https://github.com/alexbachlej/pixctl) — Local image upscaling toolkit
+The goal is not "AI wrote code for me."
 
----
+The goal is controlled AI execution that produces inspectable software artifacts.
 
-Belgium · [alexbachlej.com](https://alexbachlej.com) · [LinkedIn](https://www.linkedin.com/in/alexbachlej/) · [Instagram](https://www.instagram.com/alexbachlej/)
+### pixctl
+
+[pixctl](https://github.com/alexbachlej/pixctl) is a practical local image optimization and Real-ESRGAN upscaling tool.
+
+It is also an inspectable output artifact from RailTaskLite. The code is public so the quality of the generated software can be evaluated directly.
+
+### archon3
+
+[archon3](https://github.com/alexbachlej/archon3) is an early multi-agent orchestration prototype and part of the foundation that led toward the RailTaskLite workflow.
+
+It explores structured planning, building, validation, and integration across AI-driven software tasks.
+
+### blackbox-raven
+
+[blackbox-raven](https://github.com/alexbachlej/blackbox-raven) is a small local AI terminal/operator experiment for project-file injection, code generation, and session persistence.
+
+It is a side artifact, not the flagship.
+
+## What I am building next
+
+Small, sharp public tools around AI execution quality:
+
+- repo trust audits
+- log sanitization
+- prompt contract linting
+- agent run cards
+- MCP safety scanning
+- supervised AI build evidence
+
+The direction is simple:
+
+AI execution should be inspectable, repeatable, auditable, and useful.
