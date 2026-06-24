@@ -4,6 +4,19 @@ AI-native systems engineer focused on multi-LLM orchestration runtimes, controll
 
 I build systems where AI does not just generate code blindly. The work is scoped, reviewed, tested, audited, and shipped through controlled execution loops.
 
+## Ecosystem map
+
+I build controlled AI execution systems.
+
+- **archon3** - early orchestration and planning foundation
+- **RailTaskLite** - supervised AI execution workflow
+- **pixctl** - inspectable software artifact produced through that workflow
+- **blackbox-raven** - early local AI operator experiment
+
+The goal is not autonomous AI.
+
+The goal is controlled execution, auditability, and reproducible software delivery.
+
 ## Core narrative
 
 Most people argue whether AI is magic.
