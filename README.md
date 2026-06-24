@@ -1,31 +1,37 @@
-## Alex Bachlej
+# Alex Bachlej
 
-AI-native systems engineer. I build orchestration runtimes that coordinate multiple LLMs to generate, validate, and integrate code autonomously.
-
-Python · FastAPI · Redis · Anthropic Claude · OpenAI
+AI-native systems engineer building multi-LLM orchestration, automation runtimes, and operator-first technical workflows.
 
 ---
 
-### Projects
+## What I build
 
-| Repo | What it does |
-|------|-------------|
-| [archon3](https://github.com/Inthrabachlej/archon3) | Multi-agent orchestration: Architect → Builder → Validator → Integrator pipeline |
-| [archon2](https://github.com/Inthrabachlej/archon2) | GPT-4o + Claude dual-model code generator — produces working modular projects from a deployment plan |
-| [blackbox-raven](https://github.com/Inthrabachlej/blackbox-raven) | Local terminal AI operator for Claude — inject files, generate modules to disk, persist planning sessions |
-| [pixctl](https://github.com/Inthrabachlej/pixctl) | Offline AI image upscaler (Real-ESRGAN + Gradio) — no cloud, no accounts |
-| [voice-to-text](https://github.com/Inthrabachlej/voice-to-text) | Offline press-to-talk transcription (Whisper) — Polish + English, auto-clipboard |
+I build AI-native automation systems, orchestration runtimes, and technical workflows that turn manual or chaotic software work into repeatable execution pipelines.
 
----
+**Current focus:**
+- multi-LLM orchestration
+- AI-assisted software execution
+- backend and infrastructure workflows
+- operator-first automation systems
 
-### Stack
-
-```
-Python 3.12+  ·  FastAPI  ·  Redis  ·  PostgreSQL
-Claude API  ·  OpenAI API  ·  Multi-agent orchestration
-Linux  ·  Docker  ·  SSH-first ops
-```
+The goal is simple: make AI-generated work controllable, reviewable, and production-oriented instead of leaving it as one-shot code generation.
 
 ---
 
-[alexbachlej.com](https://alexbachlej.com) · Belgium
+## Stack
+
+Python 3.12+ · FastAPI · Redis · PostgreSQL · Claude API · OpenAI API · Multi-agent orchestration · Linux · Docker · SSH-first ops
+
+---
+
+## Projects
+
+- [archon3](https://github.com/Inthrabachlej/archon3) — Multi-agent orchestration prototype
+- [archon2](https://github.com/Inthrabachlej/archon2) — AI-assisted software generation
+- [blackbox-raven](https://github.com/Inthrabachlej/blackbox-raven) — Local AI terminal operator for Claude
+- [voice-to-text](https://github.com/Inthrabachlej/voice-to-text) — Offline voice transcription tools
+- [pixctl](https://github.com/Inthrabachlej/pixctl) — Local image upscaling toolkit
+
+---
+
+Belgium · [alexbachlej.com](https://alexbachlej.com) · [LinkedIn](https://linkedin.com/in/cezarybachlej)
