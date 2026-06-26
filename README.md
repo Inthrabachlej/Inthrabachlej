@@ -50,6 +50,12 @@ The goal is controlled AI execution that produces inspectable software artifacts
 
 It is also an inspectable output artifact from RailTaskLite. The code is public so the quality of the generated software can be evaluated directly.
 
+### production-engineering-samples
+
+[production-engineering-samples](https://github.com/alexbachlej/production-engineering-samples) contains small, standalone code samples extracted and sanitized from AI-native backend and orchestration systems.
+
+It focuses on production patterns without exposing product internals: HMAC metadata signing, atomic filesystem writes, state-machine validation, safe upload handling, cursor pagination, immutable runtime reports, and audio temporal mapping.
+
 ### archon3
 
 [archon3](https://github.com/alexbachlej/archon3) is an early multi-agent orchestration prototype and part of the foundation that led toward the RailTaskLite workflow.
